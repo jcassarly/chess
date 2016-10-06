@@ -19,4 +19,4 @@ if you want to start a new game, use the save as and then reset or restart the p
 ## Installation
 If you want to use the program, download the jar file in the dist folder and use that.  I plan to keep that up to date with any changes I make to the program.
 
-If you want the source code, its all in the src folder, each folder in there is a package.  I wrote this program using the netbeans editor which created the forms for the GUI components.
+If you want the source code, its all in the src folder, each folder in there is a package.  I wrote this program using the netbeans editor which created the forms for the GUI components.  There are also sections of the code that the GUI editor wrote so that is why there are things like 64 Square variables in the ChessBoard.java file rather than 1 array.
