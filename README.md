@@ -21,9 +21,9 @@ If you want to use the program, download the jar file in the dist folder and use
 If you want the source code, its all in the src folder, each folder in there is a package.  I wrote this program using the netbeans editor which created the forms for the GUI components.
 
 ## Screenshots
-Start of game
+#### Start of game
 <img src="screenshots/Start.png" alt="Start of Game">
-Movement Options When Choosing Piece
+#### Movement Options When Choosing Piece
 <img src="screenshots/rook.png" alt="Demonstrate Rook Movement Options">
-Checkmate!
+#### Checkmate!
 <img src="screenshots/checkmate.png" alt="Checkmate">
