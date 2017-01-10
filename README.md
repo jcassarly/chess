@@ -28,5 +28,5 @@ If you want the source code, its all in the src folder, each folder in there is 
 #### Checkmate!
 <img src="screenshots/checkmate.png" alt="Checkmate">
 
-## A couple other things
+## Other Notes
 The images of the pieces can be found here: http://opengameart.org/content/chess-pieces
