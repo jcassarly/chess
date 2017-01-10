@@ -6,6 +6,8 @@ This program allows the user to play chess.
 
 The pieces that can move have a blue outline. This depends on who's turn it is. Click these buttons to show their possible movesets the movesets will now be outlined in blue, if nothing is outlined in blue, the piece has no available moves. If the piece has available moves, you may choose where you would like the piece to move. If you dont want to move that piece, click on the piece again, it will deselect it
 
+<img src="screenshots/Start.png" alt="Start of Game" style="width:300px;height:228px;">
+
 In order to save your game, choose the file item on the menu bar and choose "Save As". Then choose the save file you want to use or create a new one. You can now save to that file with the "Save" menu item
 
 In order to load a previously saved game, choose the file from the "Load" menu item. You can then save that file with "Save"
