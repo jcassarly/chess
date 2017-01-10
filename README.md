@@ -27,3 +27,6 @@ If you want the source code, its all in the src folder, each folder in there is 
 <img src="screenshots/rook.png" alt="Demonstrate Rook Movement Options">
 #### Checkmate!
 <img src="screenshots/checkmate.png" alt="Checkmate">
+
+## A couple other things
+The images of the pieces can be found here: http://opengameart.org/content/chess-pieces
