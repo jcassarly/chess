@@ -15,9 +15,15 @@ You can undo moves with the undo button in the bottom right hand corner or the u
 You can reset the board with the reset button, it will bring up a window checking to make sure you really want to reset because once you do, it overwrites the save
 if you want to start a new game, use the save as and then reset or restart the program.
 
-<img src="screenshots/Start.png" alt="Start of Game">
-
 ## Installation
 If you want to use the program, download the jar file in the dist folder and use that.  I plan to keep that up to date with any changes I make to the program.
 
 If you want the source code, its all in the src folder, each folder in there is a package.  I wrote this program using the netbeans editor which created the forms for the GUI components.
+
+## Screenshots
+Start of game
+<img src="screenshots/Start.png" alt="Start of Game">
+Movement Options When Choosing Piece
+<img src="screenshots/rook.png" alt="Demonstrate Rook Movement Options">
+Checkmate!
+<img src="screenshots/checkmate.png" alt="Checkmate">
